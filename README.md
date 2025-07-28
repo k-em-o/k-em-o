@@ -19,6 +19,8 @@ Motivated junior developer with hands-on experience in mobile app development us
 </p>
 
 ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 🚀 Skills
 
