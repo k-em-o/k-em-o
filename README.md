@@ -18,8 +18,8 @@ Motivated junior developer with hands-on experience in mobile app development us
   <img src="https://komarev.com/ghpvc/?username=k-em-o&label=Profile%20views&color=0e75b6&style=flat" alt="k-em-o" />
 </p>
 
----
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 ### 🚀 Skills
@@ -40,7 +40,7 @@ Motivated junior developer with hands-on experience in mobile app development us
 - Git, GitHub, Visual Studio Code
 - Figma (Basics), TIA Portal
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 📚 Education
 
@@ -48,7 +48,8 @@ Motivated junior developer with hands-on experience in mobile app development us
 Borg El Arab Technological University  
 `10/2023 – Present` | Alexandria, Egypt
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 🎓 Courses & Training
 
@@ -61,7 +62,8 @@ Borg El Arab Technological University
 - **PLC Programming (S7-1200/1500)**  
   *July – Aug 2024*
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 📫 Contact Me
 
@@ -69,7 +71,8 @@ Borg El Arab Technological University
 - Phone: [+20 155 071 9285](tel:+201550719285)
 - GitHub: [github.com/k-em-o](https://github.com/k-em-o)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 🧰 Tech Stack (Icons)
 
@@ -81,7 +84,8 @@ Borg El Arab Technological University
   <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="50" height="50" />
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 📈 GitHub Stats
 
@@ -90,7 +94,8 @@ Borg El Arab Technological University
   <img src="https://streak-stats.demolab.com/?user=k-em-o&theme=midnight-purple" />
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 🐍 Snake Contributions Graph
 
@@ -98,7 +103,8 @@ Borg El Arab Technological University
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <!--
 <em><p align="center">Let’s connect, learn, and build cool things together 🚀</p></em>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
