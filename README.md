@@ -15,7 +15,7 @@ Motivated junior developer with hands-on experience in mobile app development us
 </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/kareemHmada/ataa-mobile/refs/heads/main/assets/Ataa.png" alt="k-em-o" />
+  <img src="https://komarev.com/ghpvc/?username=k-em-o&label=Profile%20views&color=0e75b6&style=flat" alt="k-em-o" />
 </p>
 
 ---
