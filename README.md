@@ -75,16 +75,21 @@ Borg El Arab Technological University
 
 ### 🧰 Tech Stack (Icons)
 
-<p align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-<img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
-<img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
-</p>
+<div align="center">
 
-<p align="center">
-<strong>React</strong> • <strong>JavaScript</strong> • <strong>Mobile App</strong> • <strong>React Native</strong>
-</p>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
+
+<br>
+
+<strong>React</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Mobile App</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>React Native</strong>
+
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
