@@ -77,27 +77,28 @@ Borg El Arab Technological University
 ### 🧰 Tech Stack (Icons)
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td align="center" width="100" style="border: none;">
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin: 20px 0;">
+    <!-- React -->
+    <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="100" style="border: none;">
+      <p style="margin-top: 10px; font-weight: bold;">React</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif?raw=true" width="60" height="50" />
-      <br><strong>Mobile App</strong>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
-      <br><strong>React Native</strong>
-    </td>
-  </tr>
-</table>
+      <p style="margin-top: 10px; font-weight: bold;">JavaScript</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
+      <p style="margin-top: 10px; font-weight: bold;">Mobile App</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
+      <p style="margin-top: 10px; font-weight: bold;">React Native</p>
+    </div>
+  </div>
 </div>
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
