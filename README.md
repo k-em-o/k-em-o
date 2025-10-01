@@ -73,36 +73,16 @@ Borg El Arab Technological University
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 ### 🧰 Tech Stack (Icons)
 
 <div align="center">
-  
-  <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin: 20px 0;">
-    <!-- React -->
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-      <p style="margin-top: 10px; font-weight: bold;">React</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-      <p style="margin-top: 10px; font-weight: bold;">JavaScript</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
-      <p style="margin-top: 10px; font-weight: bold;">Mobile App</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
-      <p style="margin-top: 10px; font-weight: bold;">React Native</p>
-    </div>
-  </div>
+
+| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" /><br/>**React** | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" /><br/>**JavaScript** | <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" /><br/>**Mobile App** | <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" /><br/>**React Native** |
+|:---:|:---:|:---:|:---:|
+
 </div>
 
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 ### 📈 GitHub Stats
 
