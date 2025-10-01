@@ -77,7 +77,7 @@ Borg El Arab Technological University
 ### 🧰 Tech Stack (Icons)
 
 <div align="center">
-<table>
+<table  style="width:100% ; border-width:0" >
   <tr>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
