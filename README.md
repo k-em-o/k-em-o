@@ -76,28 +76,27 @@ Borg El Arab Technological University
 
 ### 🧰 Tech Stack (Icons)
 
-<div style=" text-align: center ; font-size: 20px; font-weight: bold ; display: flex; justify-content: center; ">
-<div align="center">
-  <img style="margin-right: 10px;" src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <p style="margin-right: 10px;">React </p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; font-size: 16px; font-weight: bold; text-align: center;">
 
-</div>
-<div align="center">
-  <img style="margin-right: 10px;" src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-  <p style="margin-right: 10px;">JavaScript </p>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+    <p>React</p>
+  </div>
 
-</div>
-<div align="center" >
-  <img style="margin-right: 15px;" src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
-  <p style="margin-right: 10px;">Mobile App </p>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+    <p>JavaScript</p>
+  </div>
 
-</div>
-<div align="center">
-  <img style="margin-right: 10px;" src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif?raw=true" width="60" height="50" />
+    <p>Mobile App</p>
+  </div>
 
-  <p>React Native </p>
-</div>
-
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
+    <p>React Native</p>
+  </div>
 
 </div>
 
