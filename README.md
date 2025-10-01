@@ -88,12 +88,12 @@ Borg El Arab Technological University
 
 </div>
 <div align="center" >
-  <img style="margin-right: 15px;" src="https://raw.githubusercontent.com/k-em-o/MediaRepository/refs/heads/main/GitHubReadme/mobile-apps.gif?token=GHSAT0AAAAAADLPW6ABVTGT7YPIGCKOQJZK2G5GBGQ" width="60" height="50" />
+  <img style="margin-right: 15px;" src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
   <p style="margin-right: 10px;">Mobile App </p>
 
 </div>
 <div align="center">
-  <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/k-em-o/MediaRepository/refs/heads/main/GitHubReadme/react.gif?token=GHSAT0AAAAAADLPW6AA6FIC7QMPZTPOAT6M2G5GCHA" width="50" height="50" />
+  <img style="margin-right: 10px;" src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
 
   <p>React Native </p>
 </div>
