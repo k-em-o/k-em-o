@@ -75,12 +75,16 @@ Borg El Arab Technological University
 
 ### 🧰 Tech Stack (Icons)
 
-<div align="center">
+<p align="center">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+<img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
+<img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
+</p>
 
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" /><br/>**React** | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" /><br/>**JavaScript** | <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" /><br/>**Mobile App** | <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" /><br/>**React Native** |
-|:---:|:---:|:---:|:---:|
-
-</div>
+<p align="center">
+<strong>React</strong> • <strong>JavaScript</strong> • <strong>Mobile App</strong> • <strong>React Native</strong>
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
