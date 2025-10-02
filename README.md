@@ -75,17 +75,7 @@ Borg El Arab Technological University
 
 ### 🧰 Tech Stack (Icons)
 
-<div align="center" style=" font-size: 16px; font-weight: bold;">
-<img style="margin-right: 60px" src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-<img style="margin-right: 100px" src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-<img style="margin-right: 85px" src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" />
-<img style="margin-right: 60px" src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif" width="50" height="50" />
-<br>
-
-<strong>React</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Mobile App</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>React Native</strong>
-
-</div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; font-size: 16px; font-weight: bold; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; font-size: 16px; font-weight: bold; text-align: center; flex-wrap: wrap;">
 
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
@@ -108,6 +98,9 @@ Borg El Arab Technological University
   </div>
 
 </div>
+
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
