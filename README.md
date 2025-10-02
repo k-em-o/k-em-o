@@ -90,6 +90,7 @@ Borg El Arab Technological University
     <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
       <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
       <br>
+      <br>
       <p>React</p>
       <p>JavaScript</p>
       <p>Mobile App</p>
