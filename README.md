@@ -73,9 +73,11 @@ Borg El Arab Technological University
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🧰 Tech Stack (Icons)
+### 🧰 Tech Stack 
+
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; font-size: 20px;font-weight: bold;">
+  <p>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
       <p>React</p>
@@ -92,7 +94,7 @@ Borg El Arab Technological University
       <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
       <p>React Native</p>
     </div>
-
+</p>
   </div>
 </div>
 
