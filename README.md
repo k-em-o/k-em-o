@@ -91,12 +91,7 @@ Borg El Arab Technological University
       <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
       <br>
       <br>
-      <p>
-      <p>React</p>
-      <p>JavaScript</p>
-      <p>Mobile App</p>
-      <p>React Native</p>
-      </p>
+      <p>React</p><p>JavaScript</p><p>Mobile App</p><p>React Native</p>
     <!-- </div>&nbsp; -->
 <!-- </p> -->
   </div>
