@@ -78,22 +78,22 @@ Borg El Arab Technological University
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; font-size: 20px;font-weight: bold;">
   <p>&nbsp;
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
       <p>React</p>
-    </div>&nbsp;
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- </div>&nbsp; -->
+    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height “50” />
       <p>JavaScript</p>
-    </div>&nbsp;
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- </div>&nbsp; -->
+    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
       <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif?raw=true" width="60" height="50" />
       <p>Mobile App</p>
-    </div>&nbsp;
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- </div>&nbsp; -->
+    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
       <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
       <p>React Native</p>
-    </div>&nbsp;
+    <!-- </div>&nbsp; -->
 </p>
   </div>
 </div>
