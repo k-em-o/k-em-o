@@ -76,10 +76,10 @@ Borg El Arab Technological University
 ### 🧰 Tech Stack
 
 <div align="center">
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/js.gif" width="60" height="50" alt="JavaScript"  />
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/React%20Logo.gif" width="60" height="50" alt="React"  />
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/React%20Native.gif" width="60" height="50" alt="React Native"  />
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" alt="Mobile App"  />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/js.gif" width="100" height="100" alt="JavaScript"  style="margin: 15px;" />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/React%20Logo.gif" width="100" height="100" alt="React"  style="margin: 15px;" />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/React%20Native.gif" width="100" height="100" alt="React Native"  style="margin: 15px;" />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="100" height="100" alt="Mobile App"  style="margin: 15px;" />
   
 </div>
 
