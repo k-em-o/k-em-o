@@ -20,23 +20,25 @@ Motivated junior developer with hands-on experience in mobile app development us
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-
 ### 🚀 Skills
 
 #### 📱 Mobile App Development
+
 - React Native (in progress)
 - UI Components, Navigation, API Integration
 
 #### 💻 Web Development (Basics)
+
 - HTML, CSS, JavaScript, Bootstrap
 
 #### ⚙️ Embedded Systems & Hardware
+
 - PLC Programming (S7-1200/1500, TIA Portal)
 - Arduino Basics
 - Electronic Soldering & Maintenance
 
 #### 🛠 Tools & Platforms
+
 - Git, GitHub, Visual Studio Code
 - Figma (Basics), TIA Portal
 
@@ -50,20 +52,18 @@ Borg El Arab Technological University
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 ### 🎓 Courses & Training
 
 - **React Native** – Mobile App Development  
-  *In Progress – April 2025*
+  _In Progress – April 2025_
 
 - **Object-Oriented Design (OOD)**  
-  *Feb – Apr 2025*
+  _Feb – Apr 2025_
 
 - **PLC Programming (S7-1200/1500)**  
-  *July – Aug 2024*
+  _July – Aug 2024_
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 ### 📫 Contact Me
 
@@ -73,32 +73,15 @@ Borg El Arab Technological University
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🧰 Tech Stack 
+### 🧰 Tech Stack
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; font-size: 20px;font-weight: bold;">
-  <!-- <p>&nbsp; -->
-    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-    <!-- </div>&nbsp; -->
-    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height “50” />
-    <!-- </div>&nbsp; -->
-    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif?raw=true" width="60" height="50" />
-    <!-- </div>&nbsp; -->
-    <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
-      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/react.gif?raw=true" width="50" height="50" />
-      <br>
-      <br>
-      <p>React</p><p>JavaScript</p><p>Mobile App</p><p>React Native</p>
-    <!-- </div>&nbsp; -->
-<!-- </p> -->
-  </div>
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/js.gif" width="60" height="50" alt="JavaScript"  />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/React%20Logo.gif" width="60" height="50" alt="React"  />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/React%20Native.gif" width="60" height="50" alt="React Native"  />
+      <img src="https://github.com/k-em-o/MediaRepository/blob/main/GitHubReadme/mobile-apps.gif" width="60" height="50" alt="Mobile App"  />
+  
 </div>
-
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -111,7 +94,6 @@ Borg El Arab Technological University
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 ### 🐍 Snake Contributions Graph
 
 <p align="center">
@@ -119,4 +101,3 @@ Borg El Arab Technological University
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
